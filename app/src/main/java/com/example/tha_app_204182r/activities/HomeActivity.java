@@ -6,7 +6,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import com.example.tha_app_204182r.R;
 
-// HomeActivity.java
+
 public class HomeActivity extends AppCompatActivity {
 
     @Override
