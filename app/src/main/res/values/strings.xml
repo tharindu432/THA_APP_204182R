@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">THA_APP_204182R</string>
+
+        <!-- Other string resources -->
+        <string name="tv_fm_title">Title</string>
+        <string name="tv_fm_description">Description</string>
+        <string name="tv_fm_price">Price</string>
+        <string name="btn_fm_update">Update</string>
+        <string name="btn_fm_delete">Delete</string>
+        <string name="btn_fm_add">Add</string>
+    <string name="float_btn_content">Add</string>
+    <string name="image_description">Image Description</string>
+    <string name="item_title">Item Title</string>
+    <string name="item_description">Item Description</string>
+    <string name="item_price">Item Price</string>
+    <string name="btn_text">Button Text</string>
+
+</resources>
